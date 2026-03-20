@@ -1,2 +1,3 @@
-# core-iot-platform-xwx3
+# Core Iot Platform Xwx3
+
 A repository to test GitHub automation for issue management.
